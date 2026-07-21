@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## 👩‍💻 About Me
-## 👩‍💻 自己紹介
 
 **データ分析、データ可視化、業務プロセス改善**に関心があります。
 データを活用して情報を整理・分析・可視化することにやりがいを感じており、データやテクノロジーに関するスキルを日々磨いています。
@@ -10,7 +9,7 @@
 
 ---
 
-## 📌 注目のプロジェクト
+## 📌 Pinned Repositories
 ### 📊 Power BI コンペティション 2026
 **Power BI Dataviz World Champs**
 LEGO®のデータセットを使用したデータ可視化プロジェクトです。
@@ -47,7 +46,7 @@ Figmaで作成した、従業員管理システムのUIデザインプロジェ�
 •	Azure
 •	Salesforce
 
-## 🏆 資格 ・証明
+## 🏆 Certifications
 資格・証明の詳細については、LinkedInをご覧ください。
 💼 **LinkedIn**
 [LinkedInプロフィールを表示](https://www.linkedin.com/in/nobuko-ichimaru-091a45187/details/certifications/)
