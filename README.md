@@ -10,7 +10,20 @@
 ---
 
 ## 📌 Pinned Repositories
-### 📊 Power BI コンペティション 2026
+
+## 🏆 SQL AI Promptathon 2026
+Microsoft SQL AI Promptathon に参加し、SQLとAIを組み合わせたデータ分析ワークフローを構築しました。
+- SQLによるデータ分析
+- GitHub Copilot / Codespaces
+- SQL MCP
+- ベクトル検索
+- Jupyter Notebook
+- AIを活用した問題解決プロセス
+🔗 [Submission Issue](https://github.com/microsoft/sql-ai-promptathon/issues/29)  
+🔗 [Pull Request #28](https://github.com/microsoft/sql-ai-promptathon/pull/28)
+
+
+## 📊 Power BI コンペティション 2026
 **Power BI Dataviz World Champs**
 LEGO®のデータセットを使用したデータ可視化プロジェクトです。
 
@@ -19,14 +32,13 @@ LEGO®のデータセットを使用したデータ可視化プロジェクト�
 * DAXメジャーの作成
 * インタラクティブなダッシュボードとストーリーテリング
 * セット、テーマ、パーツ、ミニフィギュアにわたるトレンドの分析
-
 🔗 [プロジェクトのリポジトリを見る](https://github.com/NobukoIT/PowerBI-Competition2026)
+
 
 ### 👥 従業員管理UI
 Figmaで作成した、従業員管理システムのUIデザインプロジェクトです。 * 従業員一覧インターフェース
 * ユーザーフレンドリーなレイアウトとナビゲーション
 * UI/UXデザインの検討・設計
-
 🔗 [プロジェクトリポジトリを表示](https://github.com/NobukoIT/Employee-Management-UI)
 
 ---
@@ -55,7 +67,6 @@ Figmaで作成した、従業員管理システムのUIデザインプロジェ�
 [github.com/NobukoIT](https://github.com/NobukoIT)
 
 ⭐ プロフィールをご覧いただきありがとうございます！
-
 
 
 
