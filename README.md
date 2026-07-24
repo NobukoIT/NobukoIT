@@ -23,8 +23,13 @@ Microsoft SQL AI Promptathon に参加し、SQLとAIを組み合わせたデー�
 🔗 [Pull Request #28](https://github.com/microsoft/sql-ai-promptathon/pull/28)
 
 
+
 ## 📊 Power BI コンペティション 2026
-**Power BI Dataviz World Champs**
+
+### 🏆 Round 2 – LEGO® Population Explosion
+
+[📄 Competition Entry – LEGO Population Explosion!](https://community.fabric.microsoft.com/t5/Contests-Gallery/LEGO-Population-Explosion-Power-BI-Dataviz-World-Champs/td-p/5280815)
+
 LEGO®のデータセットを使用したデータ可視化プロジェクトです。
 
 * Power BIによるデータ分析と可視化
@@ -32,7 +37,25 @@ LEGO®のデータセットを使用したデータ可視化プロジェクト�
 * DAXメジャーの作成
 * インタラクティブなダッシュボードとストーリーテリング
 * セット、テーマ、パーツ、ミニフィギュアにわたるトレンドの分析
+
+### 🏆 Round 1 – PitchSide Pro Sales Performance
+
+[📄 Competition Entry – PitchSide Pro Sales Performance](https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN-PitchSide-Pro-Sales-Performance/td-p/5229103)
+
+売上パフォーマンスを分析するPower BIデータ可視化プロジェクトです。
+
+* Executive KPI Overview
+* 四半期ごとの売上・利益トレンド分析
+* 地域別パフォーマンス分析
+* 販売チャネル分析
+* 商品パフォーマンス分析
+* 2商品の比較分析
+* インタラクティブフィルターとドリルスルー
+* モバイル向けレポートレイアウト
+
 🔗 [プロジェクトのリポジトリを見る](https://github.com/NobukoIT/PowerBI-Competition2026)
+
+
 
 
 ### 👥 従業員管理UI
