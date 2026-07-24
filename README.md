@@ -58,17 +58,19 @@ Figmaで作成した、従業員管理システムのUIデザインプロジェ�
 •	Azure
 •	Salesforce
 
+
 ## 🏆 Certifications
 資格・証明の詳細については、LinkedInをご覧ください。
+
 💼 **LinkedIn**
-[LinkedInプロフィールを表示](https://www.linkedin.com/in/nobuko-ichimaru-091a45187/details/certifications/)
+[LinkedInプロフィールを表示](https://www.linkedin.com/in/nobuko-it-091a45187/details/certifications/)
+
+
 
 💻 **GitHub**
 [github.com/NobukoIT](https://github.com/NobukoIT)
 
 ⭐ プロフィールをご覧いただきありがとうございます！
-
-
 
 
 
