@@ -30,7 +30,7 @@ Microsoft SQL AI Promptathon に参加し、SQLとAIを組み合わせたデー�
 
 [📄 Competition Entry – LEGO Population Explosion!](https://community.fabric.microsoft.com/t5/Contests-Gallery/LEGO-Population-Explosion-Power-BI-Dataviz-World-Champs/td-p/5280815)
 
-LEGO®のデータセットを使用したデータ可視化プロジェクトです。PBIXファイルもコンテストページに掲載しています
+LEGO®のデータセットを使用したデータ可視化プロジェクトです。
 
 * Power BIによるデータ分析と可視化
 * Power Queryによるデータ変換
@@ -42,7 +42,7 @@ LEGO®のデータセットを使用したデータ可視化プロジェクト�
 
 [📄 Competition Entry – PitchSide Pro Sales Performance](https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN-PitchSide-Pro-Sales-Performance/td-p/5229103)
 
-売上パフォーマンスを分析するPower BIデータ可視化プロジェクトです。
+売上パフォーマンスを分析するPower BIデータ可視化プロジェクトです。PBIXファイルもコンテストページに掲載しています
 
 * Executive KPI Overview
 * 四半期ごとの売上・利益トレンド分析
