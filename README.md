@@ -26,12 +26,33 @@ Microsoft SQL AI Promptathon に参加し、SQLとAIを組み合わせたデー�
 
 ## 📊 Power BI コンペティション 2026
 
+## 🎬 TMDB Movie Analytics Explorer | Power BI Dataviz World Champs 2026 Round 3
+
+Created an interactive movie analytics dashboard using Power BI.
+
+- Challenge: Power BI Dataviz World Champs 2026 Round 3
+- Theme: Lights, Camera, Insight!
+- Tool: Microsoft Power BI
+- Dataset: TMDB Movies Dataset
+- Features:
+  - Movie budget, revenue, and profit analysis
+  - Genre and production company analysis
+  - Interactive drillthrough for movie details
+  - Scatter plot analysis of budget vs revenue
+  - Search and exploration of movie titles
+
+Submission:
+https://community.fabric.microsoft.com/t5/Contests-Gallery/TMDB-Movie-Analytics-Explorer/td-p/5335256
+
+Challenge Details:
+https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/Power-BI-Dataviz-World-Champs-Round-3/ba-p/5323477
+
+
 ### 🏆 Round 2 – LEGO® Population Explosion
 
 [📄 Competition Entry – LEGO Population Explosion!](https://community.fabric.microsoft.com/t5/Contests-Gallery/LEGO-Population-Explosion-Power-BI-Dataviz-World-Champs/td-p/5280815)
 
 LEGO®のデータセットを使用したデータ可視化プロジェクトです。
-
 * Power BIによるデータ分析と可視化
 * Power Queryによるデータ変換
 * DAXメジャーの作成
@@ -43,7 +64,6 @@ LEGO®のデータセットを使用したデータ可視化プロジェクト�
 [📄 Competition Entry – PitchSide Pro Sales Performance](https://community.fabric.microsoft.com/t5/Contests-Gallery/World-Champs-BCN-PitchSide-Pro-Sales-Performance/td-p/5229103)
 
 売上パフォーマンスを分析するPower BIデータ可視化プロジェクトです。PBIXファイルもコンテストページに掲載しています
-
 * Executive KPI Overview
 * 四半期ごとの売上・利益トレンド分析
 * 地域別パフォーマンス分析
@@ -54,7 +74,6 @@ LEGO®のデータセットを使用したデータ可視化プロジェクト�
 * モバイル向けレポートレイアウト
 
 🔗 [プロジェクトのリポジトリを見る](https://github.com/NobukoIT/PowerBI-Competition2026)
-
 
 
 
@@ -94,7 +113,6 @@ Figmaで作成した、従業員管理システムのUIデザインプロジェ�
 [github.com/NobukoIT](https://github.com/NobukoIT)
 
 ⭐ プロフィールをご覧いただきありがとうございます！
-
 
 
 
